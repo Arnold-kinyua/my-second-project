@@ -2,11 +2,20 @@
 <html>
     <head>
         <script>
+            let counter = 0;
+
+            function count() {
+                counter++;
+                document.queryselector('#counter').innerHTML = counter;
+            }
         alert('Hello!');
         </script>
         <title>My website</title>
     </head>
     <body>
         <h1> Welcome</h1>
+        <h2 id="counter">0</h2>
+        <button onclick="count()">click Here!</button>
+        <button onclick="hello()">click here!</button>
     </body>
 </html>
