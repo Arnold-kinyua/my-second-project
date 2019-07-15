@@ -21,5 +21,10 @@ h1 {
     color: aliceblue;
     font-family: 'Courier New', Courier, monospace;
     font-style: italic;
-    
+}
+h4 {
+    font: outline;
+    font-display: red;
+    background-attachment:blue;
+    text-align: center;
 }
