@@ -1,0 +1,28 @@
+body {
+    font-family: fantasy;
+    background-position: center;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGjZCUljC9GpNOF5uPm6qm3HVvDEe9fyQJ3nYU6CF-uS_fLbLVLw);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-emphasis-color: red;
+}
+ li {
+    text-decoration-color: pink;
+    text-anchor: inherit;
+    background-attachment: fixed;
+    text-emphasis-color: green;
+}
+
+h1 {
+    color: red;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+}
+h4 {
+    color: yellowgreen;
+    background-color: darkslategray;
+    font: oblique;
+    font-display: red;
+    background-attachment:blue;
+    text-align: center;
+}

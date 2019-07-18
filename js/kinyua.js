@@ -10,7 +10,7 @@ function workout(){
    dayOfTheWeek = (((century/4)-2*century-1)+((5*year/4))+((26*(month+1)/10))+day-2)%7;
    return(Math.floor(dayOfTheWeek));
 }
-var result=dayOfTheWeek()
+var result=dayOfTheWeek();
 function validation(){
  if (document.getElementById("century").value == "" || century<1 || century>21){
      alert("Please enter a valid century")
