@@ -1,10 +1,10 @@
 body {
     font-family: fantasy;
     background-position: center;
-    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGjZCUljC9GpNOF5uPm6qm3HVvDEe9fyQJ3nYU6CF-uS_fLbLVLw);
+    background-image: url("../images/images.jpeg")
     background-repeat: no-repeat;
     background-size: cover;
-    text-emphasis-color: red;
+    text-emphasis-color: red;s
 }
  li {
     text-decoration-color: pink;
